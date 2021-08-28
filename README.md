@@ -1,4 +1,4 @@
-# react-starter
+# react-starter (deprecated--no longer maintained/used)
 Starter project for a single page web application using react and webpack. 
 
 ## Getting Started ##
